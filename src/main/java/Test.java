@@ -5,6 +5,5 @@ public class Test {
         System.out.println("TAch");
 
 
-        System.out.println("Hello World");
     }
 }
